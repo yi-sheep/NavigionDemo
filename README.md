@@ -42,7 +42,8 @@
             Resource type选择Navigation
             然后点击图中的那个地方，进行添加，就会出现创建的两个碎片，将两个碎片添加进导航图中。
 
-        <img src="https://yi-sheep.github.io/NavigionDemo/Res/image/Navigation_3.png"><img>
+       <img src="https://yi-sheep.github.io/NavigionDemo/Res/image/Navigation_3.png"><img>
+        
     - 添加切换路径
 
             这一步其实就是连线，按照图中的顺序连起来。
