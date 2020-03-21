@@ -71,6 +71,7 @@
             让切换更生动，有视觉提醒，选择碎片之间连接的线就会在右边看到如图所示的编辑框红色框里的分别是设置启动时和关闭时的动画，黄色框里的是系统准备的动画，也可以自己写，这里不多说因为我不会。
 
         <img src="https://yi-sheep.github.io/NavigionDemo/Res/image/Navigation_9.png"><img>
+<span id="NavHost"/>
     - 添加 NavHost
 
             进入activity_main.xml里面，这里我还是使用的拖拽的方式，看图。
