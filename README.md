@@ -33,6 +33,7 @@
             随便怎么弄都可以也可以参考我的，红色框里的是TextView,绿色框里的是Button
 
         <img src="https://yi-sheep.github.io/NavigionDemo/Res/image/Navigation_8.png"><img>
+   <span id="NavGraph"/>
     - 创建NavGraph
 
             NavGraph就是导航图，是属于资源,所以要创建就是在
